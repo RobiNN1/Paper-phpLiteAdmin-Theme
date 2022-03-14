@@ -1,7 +1,4 @@
-# Paper
-
-Paper theme for phpLiteAdmin
-
+# Paper theme for phpLiteAdmin
 
 [Install guide](https://bitbucket.org/phpliteadmin/public/wiki/Themes)
 
